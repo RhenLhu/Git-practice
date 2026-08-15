@@ -1,5 +1,5 @@
 # Git-practice
 
-# gfHello world
+# Hello world
 
 # Rivera, Renz Lui B.
